@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "432450350804",
+    "firebase_url": "https://cibus-33606.firebaseio.com",
+    "project_id": "cibus-33606",
+    "storage_bucket": "cibus-33606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432450350804:android:19b046c67d2cac93",
+        "android_client_info": {
+          "package_name": "com.technology.olympian.cibus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432450350804-uhnkt03nm2ekd8i0s6j5nleku39m5vec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.technology.olympian.cibus",
+            "certificate_hash": "c0487eda4a81464b2e6f671e6a9c199811eba0d7"
+          }
+        },
+        {
+          "client_id": "432450350804-7vhqt8o7oa0nhsk5baug9mupofi5v064.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1-YyAs7EHYlDVYqGZs8RmlhNg58PUcFg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432450350804-7vhqt8o7oa0nhsk5baug9mupofi5v064.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
